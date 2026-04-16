@@ -1,11 +1,12 @@
 ---
 name: deepwiki
-description: >
+description: >-
   Query DeepWiki documentation for any public GitHub repository directly via HTTP,
-  without needing an MCP connection. Use when the agent needs to look up documentation,
-  browse wiki structure, or ask questions about a GitHub repository's architecture and code.
-  Triggers: "deepwiki", "look up repo docs", "what does this repo do", "ask deepwiki",
-  "how does this repo work".
+  without needing an MCP connection. Use when the agent needs to look up
+  documentation, browse wiki structure, or ask questions about a GitHub
+  repository's architecture and code. Triggers include: "deepwiki", "look up
+  repo docs", "what does this repo do", "ask deepwiki", and "how does this
+  repo work".
 ---
 
 # DeepWiki
